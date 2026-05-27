@@ -8,7 +8,6 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-red-100: oklch(93.6% 0.032 17.717);
-    --color-amber-800: oklch(47.3% 0.137 46.201);
     --color-cyan-500: oklch(71.5% 0.143 215.221);
     --color-black: #000;
     --color-white: #fff;
